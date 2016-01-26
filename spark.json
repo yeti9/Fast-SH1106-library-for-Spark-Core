@@ -1,0 +1,8 @@
+
+{
+  "name": "Fast-SH1106-library-for-Spark-Core",
+  "author": "Joe Goggins <joe@spark.io>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
